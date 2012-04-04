@@ -1,0 +1,23 @@
+.form-table
+{
+  width: 350px;
+}
+.form-table TBODY TD
+{
+  width: 150px;
+}
+.input
+{
+  float: left;
+  width: 350px;
+}
+.response
+{
+  float: left
+}
+.response P
+{
+  width: 400px;
+  min-height: 50px;
+  background-color: grey;
+}
